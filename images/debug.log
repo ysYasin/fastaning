@@ -1,0 +1,6 @@
+[0924/163529.919:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0924/163539.749:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0924/193758.633:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0924/193759.433:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0926/114127.087:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202021%20(Prerelease)/Required/www-rich-tooltips/build/external.js (1)
+[0926/183044.610:INFO:CONSOLE(1)] "Hiding message due to error: CActionControl::Get failed with error: -25920 msg: error: -25920 message: Could not complete your request because a command was not available.", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202021%20(Prerelease)/Required/www-butler/build/spaces.js (1)
